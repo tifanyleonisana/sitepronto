@@ -1,0 +1,349 @@
+body{
+    margin: 0;
+    background-color: black;
+}
+h2{
+    font-size: 40px;
+    font-family: arial;
+    color: red;
+    background-color: black;
+}
+p{
+    font-size: 20px;
+    font-family: arial;
+    color: white;
+    background-color: black
+}
+#academy{
+    width: 100vw;
+    height: 100vh;
+    background: url(academy.png);
+    background-size: cover;
+}
+.box{
+    width: 180px;
+    height: 180px;
+    background: #c90000;
+}
+.box-one{
+    position:absolute;
+    bottom: 260px;
+    left: 50px;
+
+
+}
+.box-two{
+    position: absolute;
+    bottom: 50px;
+    left: 50px;
+}
+.box-3{
+    position: absolute;
+    bottom: 260px;
+    left: 260px;
+}
+.box-4{
+    position: absolute;
+    bottom: 50px;
+    left: 260px ;
+
+}
+.exerc{
+font-size: 28px;
+font-family: fantasy;
+color: white;
+text-align: center;
+}
+.equip{
+    font-size: 28px;
+    font-family: fantasy;
+    color: white;
+    text-align: center;
+}
+.produtos{
+    font-size: 28px;
+    font-family: fantasy;
+    color: white;
+    text-align: center;
+}
+.sobre{
+    font-size: 28px;
+    font-family: fantasy;
+    color: white;
+    text-align: center;
+}
+.titulo{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    color: red;
+    font-size: 75px;
+    font-family: arial;
+}
+#basicos{
+    width: 100vw;
+    height: 200vh;
+    background: url(gym4.jpg);
+    background-size: cover;
+}
+.aga{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+
+}
+.aga2{
+    position: absolute;
+    top: 55px;
+    left: 0px;
+}
+.ava{
+    position: absolute;
+    top: 180px;
+    left: 0px;
+}
+.ava2{
+    position: absolute;
+    top:235px ;
+    left: 0px;
+}
+.lev{
+    position: absolute;
+    top:340px ;
+    left: 0px;
+}
+.lev2{
+    position: absolute;
+    top: 395px;
+    left: 0px;
+}
+.quad{
+    position: absolute;
+    top: 480px; 
+    left: 0px;
+}
+.quad2{
+    position: absolute;
+    top: 535px ;
+}
+.flex{
+    position: absolute;
+    top: 630px; 
+    left: 0px;
+}
+.flex2{
+    position: absolute;
+    top: 685px;
+    left: 0px;
+}
+.tri{
+    position: absolute;
+    top: 780px;
+    left: 0px;
+}
+.tri2{
+    position: absolute;
+    top: 835px;
+    left: 0px;
+}
+.barr{
+position: absolute;
+top: 915px ;
+left: 0px;
+}
+.barr2{
+position: absolute;
+top: 970px;
+left: 0px;
+}
+.reto{
+    position: absolute;
+    top: 1050px;
+    left: 0px;
+}
+.reto2{
+    position: absolute;
+    top: 1105px;
+    left: 0px;
+}
+#hehe{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100vw;
+    height: 225vh;
+    background: url(therock.png);
+    background-size: cover;
+}
+.whey{
+    position: absolute;
+    top: 0px;
+}
+.whey2{
+    position: absolute;
+    top: 70px;
+}
+.meta{
+    position: absolute;
+    top:160px ;
+}
+.meta2{
+    position:absolute ;
+    top: 230px;
+}
+.glu{
+    position: absolute;
+    top: 320px;
+}
+.glu2{
+    position: absolute;
+    top: 400px;
+}
+.omg{
+    position: absolute;
+    top: 490px;
+}
+.omg2{
+    position: absolute;
+    top: 550px;
+}
+.l{
+    position: absolute;
+    top: 630px;
+}
+.l2{
+    position:absolute;
+    top: 696px;
+}
+.cre{
+    position: absolute;
+    top: 785px;
+}
+.cre2{
+    position: absolute;
+    top: 850px;
+}
+.ter{
+    position: absolute;
+    top: 930px;
+}
+.ter2{
+    position: absolute;
+    top: 1000px;
+}
+.b{
+    position: absolute;
+    top: 1150px;
+}
+.b2{
+    position: absolute;
+    top: 1220px;
+}
+.ele{
+    position: absolute;
+    top: 1290px;
+}
+.ele2{
+    position: absolute;
+    top: 1360px;
+}
+ul{
+    font-size: 25px;
+    font-family: arial;
+    color: white;
+    background-color: black;
+}
+#hum{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100vw;
+    height: 110vh;
+    background: url(foto-vertical-das-costas-de-um-homem-forte-fazendo-flexoes-em-uma-academia_475667-919.png);
+    background-size: cover;
+}
+.muc{
+    position: absolute;
+    top: 0px;
+}
+.muc2{
+    position: absolute;
+    top: 70px;
+}
+.muc3{
+    position: absolute;
+    top: 140px;
+}
+.super{
+    position: absolute;
+    top: 340px;
+}
+.super2{
+    position: absolute;
+    top: 400px;
+}
+.super3{
+    position: absolute;
+    top: 460px;
+}
+.legalize{
+    position: absolute;
+    top: 250px;
+    right: 400px;
+    width: 500px;
+    height: 400px;
+}
+#fundo{
+    width: 100vw;
+    height: 120vh;
+    background-color: black;
+}
+.ana{
+    position: absolute;
+    top: 320px;
+    left: 0px;
+}
+.tit{
+    position: absolute;
+    top: 0px;
+
+}
+.tit2{
+    position: absolute;
+    top: 85px;
+}
+.contatos{
+    position: absolute;
+    top: 240px;
+}
+.anainsta{
+    position: absolute;
+    top: 270px;
+    left: 50px;
+    color: white;
+    font-size: 40px;
+}
+.tif{
+    position: absolute;
+    top: 400px;
+    left: 0px; 
+}
+.tifinsta{
+    position: absolute;
+    top:350px ;
+    left: 50px;
+    color: white;
+    font-size: 40px;
+}
+.leonis{
+    position: absolute;
+    top:430px ;
+    left: 50px;
+    color: white;
+    font-size: 40px;
+}
+.adonis{
+    position: absolute;
+    top: 480px;
+    left: 0px; 
+}
